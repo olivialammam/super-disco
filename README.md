@@ -22,5 +22,7 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
+Website: https://olivialammam.github.io/super-disco/
+
 ![image](https://user-images.githubusercontent.com/95842420/162639262-4ea667e2-0656-4872-a5fd-2af3a584ff8c.png)
 
